@@ -1,15 +1,12 @@
-## Hi, We are FoodRescue
+## Hello! This is a replication of the FoodRescue project for Ventura County, CA with some tweaks. Currently, this app serves as a one-stop-shop to locate the Food Shelves/Pantries in and around the county. As and when details on composting is available, the app will be updated. 
 
-Live at http://food-rescue.herokuapp.com
+
+Live at https://find-a-food-shelf.herokuapp.com/
 
 This is on an MIT license
 
-This application helps people with surplus food determine how to dispose of it in accordance
-with Act 148 (Vermont's Universal Recycling Law).
+This application provides a resource for individuals and organizations to donate food to the needy in and around the county.
 
-## Trello Board
-
-https://trello.com/b/auY5UpJN/food-shelf-connect-act-148-food-donation-and-education-app-for-the-vermont-foodbank
 
 ## Developer Setup
 
