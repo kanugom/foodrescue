@@ -1,7 +1,7 @@
 class Org < Hash
 
   def self.all
-    from_file("foodshelf") + from_file("pig") + from_file("compost")
+    from_file("foodpantry") #+ from_file("pig") + from_file("compost")
   end
 
   def self.from_file org_type

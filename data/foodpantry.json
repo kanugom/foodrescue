@@ -1,0 +1,2872 @@
+[
+    {
+        "users": [],
+        "id": 2989,
+        "name": "Camarillo Community Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-402-3997",
+        "address": "379 Mobil Ave.",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.2203535,
+        "lon": -119.0429919,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2990,
+        "name": "Project Hope - St. Columbas Episcopal Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-482-8831",
+        "address": "1251 Las Posas Road",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.2329164,
+        "lon": -119.0552394,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2991,
+        "name": "Seventh Day Adventist Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-482-4632",
+        "address": "3975 E. Las Posas Rd",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.2361398,
+        "lon": -119.0407244,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2992,
+        "name": "Spirit of Camarillo - Many Meals of Camarillo",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-388-8742",
+        "address": "St. Mary Magdalen Church Hall",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.2163937,
+        "lon": -119.0376023,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2993,
+        "name": "St Mary Magdalen",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-987-1155",
+        "address": "2532 Ventura Blvd",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.2150191,
+        "lon": -119.0360775,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2994,
+        "name": "First Baptist Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-484-2879",
+        "address": "1601 Temple Ave",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.2357,
+        "lon": -119.033994,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2995,
+        "name": "Journey The Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-603-1001",
+        "address": "1605 Burnley St.",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.226623,
+        "lon": -119.04864,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2996,
+        "name": "Jubilee Church - Channel of Blessings",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "(805) 482-5424",
+        "address": "1169 Calle Suerte",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93012,
+        "lat": 34.228546,
+        "lon": -119.014882,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2997,
+        "name": "Lighthouse Bible Church @ Camarillo Sr. Center",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-701-0995",
+        "address": "1605 Burnley St.",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.226623,
+        "lon": -119.04864,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2998,
+        "name": "Spirit of Camarillo - Many Meals of Camarillo",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-484-0530",
+        "address": "Trinity Presbyterian Church Hall",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.242588,
+        "lon": -119.017635,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 2999,
+        "name": "True Life Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-530-6055",
+        "address": "2572 Barry St.",
+        "city": "Camarillo",
+        "state": "CA",
+        "zip": 93010,
+        "lat": 34.219598,
+        "lon": -119.035383,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3000,
+        "name": "St. Paul's Baptist Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-216-5867",
+        "address": "808 First St.",
+        "city": "Colonia",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.202508,
+        "lon": -119.170372,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3001,
+        "name": "Our lady of Guadalupe",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-483-0987",
+        "address": "500 N. Juanita Ave.",
+        "city": "Colonia",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.20777,
+        "lon": -119.169124,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3002,
+        "name": "City Impact - El Rio",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-983-3636 Ex. 113",
+        "address": "2857 Cortez St.",
+        "city": "El Rio",
+        "state": "CA",
+        "zip": 93036,
+        "lat": 34.235737,
+        "lon": -119.164336,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3003,
+        "name": "Mercy Ministries International Bethany Chapel",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-732-4592",
+        "address": "2857 Cortez St.",
+        "city": "El Rio",
+        "state": "CA",
+        "zip": 93036,
+        "lat": 34.235737,
+        "lon": -119.164326,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3004,
+        "name": "Rio NFL",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-981-2892",
+        "address": "3300 Cortez St.",
+        "city": "El Rio",
+        "state": "CA",
+        "zip": 93036,
+        "lat": 34.2401,
+        "lon": -119.159287,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3005,
+        "name": "Santa to the Sea",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-983-2838",
+        "address": "2838 Friedrich Road",
+        "city": "El Rio",
+        "state": "CA",
+        "zip": 93036,
+        "lat": 34.227382,
+        "lon": -119.130554,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3006,
+        "name": "Fillmore Senior Center",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-524-4533",
+        "address": "533 Santa Clara St.",
+        "city": "Fillmore",
+        "state": "CA",
+        "zip": 93015,
+        "lat": 34.398269,
+        "lon": -118.914812,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3007,
+        "name": "First 5 Ventura County Neighborhood For Learning - Fillmore",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-933-9800",
+        "address": "1048 West Ventura St",
+        "city": "Fillmore",
+        "state": "CA",
+        "zip": 93015,
+        "lat": 34.394073,
+        "lon": -118.926339,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3008,
+        "name": "St. Francis Of Assisi",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-524-1306",
+        "address": "1048 W. Ventura Street",
+        "city": "Fillmore",
+        "state": "CA",
+        "zip": 93015,
+        "lat": 34.394073,
+        "lon": -118.926339,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3009,
+        "name": "Fillmore Church of Christ",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-218-6004",
+        "address": "219 Mountain View",
+        "city": "Fillmore",
+        "state": "CA",
+        "zip": 93015,
+        "lat": 34.397906,
+        "lon": -118.908719,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3010,
+        "name": "Fillmore Police Storefront",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-524-2982",
+        "address": "642 Lemon Way",
+        "city": "Fillmore",
+        "state": "CA",
+        "zip": 93015,
+        "lat": 34.404499,
+        "lon": -118.925299,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3011,
+        "name": "One Step a la vez",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-907-6576",
+        "address": "421 Sespe Blvd",
+        "city": "Fillmore",
+        "state": "CA",
+        "zip": 93015,
+        "lat": 34.401151,
+        "lon": -118.912129,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3012,
+        "name": "NFL Fillmore",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-933-9800",
+        "address": "425 Orchard St.",
+        "city": "Fillmore",
+        "state": "CA",
+        "zip": 93015,
+        "lat": 34.400515,
+        "lon": -118.916394,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3013,
+        "name": "Catholic Charities Moorpark",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-529-0720",
+        "address": "609 Fitch Ave.",
+        "city": "Moorpark",
+        "state": "CA",
+        "zip": 93021,
+        "lat": 34.2840187,
+        "lon": -118.8730437,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3014,
+        "name": "First 5 Ventura County Neighborhood For Learning - Moorpark",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-552-1917",
+        "address": "61 East High St,",
+        "city": "Moorpark",
+        "state": "CA",
+        "zip": 93021,
+        "lat": 34.285859,
+        "lon": -118.881421,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3015,
+        "name": "Holy Cross Church (The Lord's Table)",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-552-0923",
+        "address": "791 Everett St.",
+        "city": "Moorpark",
+        "state": "CA",
+        "zip": 93021,
+        "lat": 34.287481,
+        "lon": -118.880727,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3016,
+        "name": "Iglesia Pentacoastal de Moorpark",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-428-3758",
+        "address": "296 Charles St. @ Magnolia Park",
+        "city": "Moorpark",
+        "state": "CA",
+        "zip": 93021,
+        "lat": 34.286287,
+        "lon": -118.877918,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3017,
+        "name": "Ruben Castro Charities",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-248-7113",
+        "address": "15700 Morning Dove @ Community  High",
+        "city": "Moorpark",
+        "state": "CA",
+        "zip": 93021,
+        "lat": 34.289654,
+        "lon": -118.855959,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3018,
+        "name": "Moorpark Institute of Religion",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-523-7047",
+        "address": "6790 Collins Drive",
+        "city": "Moorpark",
+        "state": "CA",
+        "zip": 93021,
+        "lat": 34.29811,
+        "lon": -118.841593,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3019,
+        "name": "Newbury Park First Christian Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-418-2129",
+        "address": "801 Knollwood Drive",
+        "city": "Newbury Park",
+        "state": "CA",
+        "zip": 91320,
+        "lat": 34.162913,
+        "lon": -118.955526,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3020,
+        "name": "Produce Outreach and Pantry Nucleus, CA inc - Manafest",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-262-5000",
+        "address": "999 Rancho Conjeo Blvd",
+        "city": "Newbury Park",
+        "state": "CA",
+        "zip": 91320,
+        "lat": 34.192319,
+        "lon": -118.924067,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3021,
+        "name": "SVDP St. Julie Billart",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-270-9597",
+        "address": "2475 Borchard Road",
+        "city": "Newbury Park",
+        "state": "CA",
+        "zip": 91320,
+        "lat": 34.180835,
+        "lon": -118.929914,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3022,
+        "name": "City Impact - Nyleand Acres",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-983-3636 ext 113",
+        "address": "3334 Santa Clara Ave.",
+        "city": "Nyeland Acres",
+        "state": "CA",
+        "zip": 93036,
+        "lat": 34.225744,
+        "lon": -119.138712,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3023,
+        "name": "New Hope Christian Center",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-649-2244",
+        "address": "590 Old Ventura Avenue",
+        "city": "Oak View",
+        "state": "CA",
+        "zip": 93022,
+        "lat": 34.393685,
+        "lon": -119.3004151,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3024,
+        "name": "First Baptist Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-646-4788",
+        "address": "930 Grand Avenue",
+        "city": "Ojai",
+        "state": "CA",
+        "zip": 93023,
+        "lat": 34.4551371,
+        "lon": -119.2346249,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3025,
+        "name": "Help of Ojai",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-640-3320",
+        "address": "108 Fox Street",
+        "city": "Ojai",
+        "state": "CA",
+        "zip": 93024,
+        "lat": 34.447541,
+        "lon": -119.241326,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3026,
+        "name": "St. Thomas Aquinas/SVDP",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-640-2750",
+        "address": "185 St. Thomas Drive",
+        "city": "Ojai",
+        "state": "CA",
+        "zip": 93023,
+        "lat": 34.4455528,
+        "lon": -119.2725085,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3027,
+        "name": "Rescue Mission Alliance",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "(805)487-1234",
+        "address": "125 S Harrison Ave",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93031,
+        "lat": 34.202172,
+        "lon": -119.176603,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3028,
+        "name": "Mixteco Indigena Community Organizing Project",
+        "description": "Encouraging the empowerment of \nOaxacan Indigenous Immigrant Community",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-385-8662",
+        "address": "PO Box 20543",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93034,
+        "lat": 34.18,
+        "lon": -119.18,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3029,
+        "name": "Foodshare, Inc. ",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "address": "4156 N Southbank Rd",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.2555082,
+        "lon": -119.1616768,
+        "categories": [
+          {
+              "id": 103,
+              "name": "Food Bank"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3030,
+        "name": "Alianza Mexicana",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-320-5278",
+        "address": "3201 Samuel Avenue",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93033,
+        "lat": 34.170128,
+        "lon": -119.176919,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3031,
+        "name": "Bread of Life - All Saints Episcopal Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-652-1326 ext 836",
+        "address": "144 South C Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.2018513,
+        "lon": -119.1807717,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3032,
+        "name": "Catholic Charities Oxnard",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-486-2900",
+        "address": "402 North A Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.205758,
+        "lon": -119.178236,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3033,
+        "name": "Centro Christiano Familiar",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-407-6181",
+        "address": "1777 Statham Boulevard",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93033,
+        "lat": 34.1820662,
+        "lon": -119.1640509,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3034,
+        "name": "Centro Christiano Familiar - Colonia",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-407-6181",
+        "address": "1500 Colonia Road",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.2064144,
+        "lon": -119.1643573,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3035,
+        "name": "Channel Islands Vineyard Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-485-0050",
+        "address": "1851 Holser Walk",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93036,
+        "lat": 34.2208106,
+        "lon": -119.1564073,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3036,
+        "name": "Community Action of VC",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-436-4030",
+        "address": "621 Richmond Avenue",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.1958049,
+        "lon": -119.1700481,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3037,
+        "name": "Dove Christian Ministries",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-487-5319",
+        "address": "241 W. Hill Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93033,
+        "lat": 34.1864787,
+        "lon": -119.1781917,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3038,
+        "name": "La Hermandad",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-483-4620, 805-525-0900",
+        "address": "520 W. Fifth Street #D",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.1974821,
+        "lon": -119.1830245,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3039,
+        "name": "Mixteco Indigena Comm.Org",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-483-1166",
+        "address": "2501 S. Gisler Avenue",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93033,
+        "lat": 34.176492,
+        "lon": -119.1726104,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3040,
+        "name": "Morning Star",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-479-7433",
+        "address": "427 N. Harrison Avenue",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.206037,
+        "lon": -119.176558,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3041,
+        "name": "New Vision Christian Center",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-389-6737",
+        "address": "1671 Beacon Place,",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93033,
+        "lat": 34.184541,
+        "lon": -119.161209,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3042,
+        "name": "Open Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-487-6314",
+        "address": "333 W. Seventh Street,",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.195295,
+        "lon": -119.180751,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3043,
+        "name": "Oxnard Community Food Pantry",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-485-3325",
+        "address": "144 S. C Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93036,
+        "lat": 34.2018513,
+        "lon": -119.1807717,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3044,
+        "name": "SDA Community Health Services",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-240-3440",
+        "address": "1625 Pacific Avenue",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93033,
+        "lat": 34.1833973,
+        "lon": -119.1651701,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3045,
+        "name": "SVDP Oxnard",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-487-1509",
+        "address": "323 S. E Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.199972,
+        "lon": -119.184044,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3046,
+        "name": "Salvation Army Oxnard",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-483-9235",
+        "address": "622 W. Wooley",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93032,
+        "lat": 34.1895992,
+        "lon": -119.1844777,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3047,
+        "name": "St. Anthonys Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-486-7301",
+        "address": "2511 South C Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.2191653,
+        "lon": -119.1808551,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3048,
+        "name": "VC Rescue Mission",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-487-1234",
+        "address": "234 E. Sixth Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.195863,
+        "lon": -119.175369,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3049,
+        "name": "Wilson Senior Center",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-385-8028",
+        "address": "350 N. C Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.2055269,
+        "lon": -119.1809757,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3050,
+        "name": "Mercy Housing - Casa San Juan",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-483-3843",
+        "address": "838 West 5th Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.19747,
+        "lon": -119.187193,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3051,
+        "name": "Mercy Housing - Villa Madera",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-988-9160",
+        "address": "1051 North A Street",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.212193,
+        "lon": -119.178834,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3052,
+        "name": "St. Johns Health Ministries @ Christ the King/Cristo El Ray",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-988-2651",
+        "address": "535 Cooper Rd.",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.204771,
+        "lon": -119.173023,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3053,
+        "name": "The Church of God / La Iglesia de Dios",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-336-0419",
+        "address": "1671 Beacon Place",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93033,
+        "lat": 34.184576,
+        "lon": -119.161188,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3054,
+        "name": "Oxnard Central - Foursquare Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-487-6314",
+        "address": "333 W. Seventh St.",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.195313,
+        "lon": -119.18073,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3055,
+        "name": "SVDP St. Anthony's Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-486-7301",
+        "address": "2511 South C St.",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.176285,
+        "lon": -119.181613,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3056,
+        "name": "Plesant Valley Village Tenant Assoc.",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-275-6014",
+        "address": "5243 Squires Dr.",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.151453,
+        "lon": -119.17042,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3057,
+        "name": "Project Access Inc.",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-988-9100",
+        "address": "1001 W. Gonzales Road",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.219444,
+        "lon": -119.189057,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3058,
+        "name": "New Life Community Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-983-1890",
+        "address": "1251 N. Rice Ave",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": 93030,
+        "lat": 34.222117,
+        "lon": -119.142257,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3059,
+        "name": "San Salvador Mission",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-625-3273",
+        "address": "4045 Center Street",
+        "city": "Piru",
+        "state": "CA",
+        "zip": 93040,
+        "lat": 34.4154179,
+        "lon": -118.7914029,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3060,
+        "name": "CEDC Valle Naranjal Farmworker Apts",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-521-1009",
+        "address": "4268 Center St.",
+        "city": "Piru",
+        "state": "CA",
+        "zip": 93015,
+        "lat": 34.413547,
+        "lon": -118.785452,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3061,
+        "name": "Evangelistic Missionary",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-487-6872 / 805-2",
+        "address": "125 E. Pearl Street",
+        "city": "Port Hueneme",
+        "state": "CA",
+        "zip": 93041,
+        "lat": 34.150667,
+        "lon": -119.199344,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3062,
+        "name": "Fleet Reserve",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-486-1263",
+        "address": "Naval Base - Ventura County",
+        "city": "Port Hueneme",
+        "state": "CA",
+        "zip": 93041,
+        "lat": 34.1477829,
+        "lon": -119.1951074,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3063,
+        "name": "Community Assistance of Santa Paula",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-525-8890",
+        "address": "133 N. Mill Street",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.354967,
+        "lon": -119.061372,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3064,
+        "name": "First 5 Ventura County Neighborhood For Learning - Santa Paula",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-933-9800",
+        "address": "217 North 10th Street, ",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.356655,
+        "lon": -119.060662,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3065,
+        "name": "Many Meals of Santa Paula",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-340-5025",
+        "address": "121 Davis Street,",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.353981,
+        "lon": -119.062759,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3066,
+        "name": "Santa Clara Valley NFL",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-933-9800",
+        "address": "217 N. 10th Street",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.356655,
+        "lon": -119.060662,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3067,
+        "name": "St. Sebastians / St. Vincent",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-525-2149",
+        "address": "235 N. Ninth Street",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.3560079,
+        "lon": -119.0634556,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3068,
+        "name": "Ventura First Assembly Of God - Puente de Vida Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-525-0900",
+        "address": "203 South 8th St., ",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.350821,
+        "lon": -119.062922,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3069,
+        "name": "CEDC - The Santa Paulan Apts.",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-525-5804",
+        "address": "113 N. 4th St.",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.351682,
+        "lon": -119.069654,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3070,
+        "name": "Iglesia del Nazareno -  Vida Neuva Santa Paula",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-933-4465",
+        "address": "3452 Ojai Rd.",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.379593,
+        "lon": -119.067448,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3071,
+        "name": "Lifeway Baptist Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-525-2520",
+        "address": "673 West Santa Paula St.",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.348464,
+        "lon": -119.087124,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3072,
+        "name": "Spirit of Santa Paula - Many Meals",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-340-5025",
+        "address": "123 N. 10th St.",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.35491,
+        "lon": -119.060118,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3073,
+        "name": "Spirit of Santa Paula @ St. Paul's Emmanuel Luthern Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-340-5025",
+        "address": "117 N. 7th St.",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.352907,
+        "lon": -119.066419,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3074,
+        "name": "Valley Community - Foursquare Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-525-4273",
+        "address": "611 East Main Street",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": 93060,
+        "lat": 34.352375,
+        "lon": -119.06705,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3075,
+        "name": "First 5 Ventura County Neighborhood For Learning - Simi Valley",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-582-1214",
+        "address": "2300 Heywood Ave",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93065,
+        "lat": 34.2683985,
+        "lon": -118.7516168,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3076,
+        "name": "New Hope Christian Fellowship",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-581-1628",
+        "address": "2350 Shasta Way",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93065,
+        "lat": 34.2774679,
+        "lon": -118.7886849,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3077,
+        "name": "Salvation Army Simi Valley",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-522-5676",
+        "address": "5924 E. Los Angeles Avenue",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93063,
+        "lat": 34.2711159,
+        "lon": -118.6755525,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3078,
+        "name": "Samaritan Center",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-579-9166",
+        "address": "280 Royal Avenue",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93063,
+        "lat": 34.263104,
+        "lon": -118.792087,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3079,
+        "name": "Shepherd of the Valley",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-526-7577",
+        "address": "4191 Cochran Avenue",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93063,
+        "lat": 34.2793286,
+        "lon": -118.7132758,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3080,
+        "name": "St. Rose of Lima Christian Service",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-581-0957",
+        "address": "1305 Royal Avenue",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93065,
+        "lat": 34.264819,
+        "lon": -118.7740918,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3081,
+        "name": "Angel Fire Christian Center",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-907-5192",
+        "address": "27 West Easy St. #1",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93065,
+        "lat": 34.279909,
+        "lon": -118.797023,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3082,
+        "name": "Iglesia Pentecostal de Moorpark",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-428-3758",
+        "address": "1251 Ward Ave.",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93065,
+        "lat": 34.273875,
+        "lon": -118.785416,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3083,
+        "name": "Lighthouse Bible Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-584-8222",
+        "address": "4910 Cochran Street",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93063,
+        "lat": 34.278072,
+        "lon": -118.697906,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3084,
+        "name": "Somis Pantry",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "818-634-9243",
+        "address": "5268 North Street, ",
+        "city": "Somis",
+        "state": "CA",
+        "zip": 93066,
+        "lat": 34.2582533,
+        "lon": -118.9977183,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3085,
+        "name": "Manna Conejo Valley Food Bank",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "(805) 497-4959",
+        "address": "3020 Crescent Way",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "zip": 91362,
+        "lat": 34.1691227,
+        "lon": -118.8375066,
+        "categories": [
+          {
+              "id": 103,
+              "name": "Food Bank"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3086,
+        "name": "Candelaria American Indian",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-650-8352",
+        "address": "1650 Palma Drive,",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93003,
+        "lat": 34.257943,
+        "lon": -119.227167,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3087,
+        "name": "Catholic Charities Ventura",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-643-4694",
+        "address": "303 N. Ventura Avenue",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93001,
+        "lat": 34.2849231,
+        "lon": -119.3002234,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3088,
+        "name": "Community Presbyterian Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-648-2737",
+        "address": "1555 Poli Street",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93001,
+        "lat": 34.2817382,
+        "lon": -119.2769409,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3089,
+        "name": "Family To Family",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-658-2610",
+        "address": "303 N. Ventura Ave",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93001,
+        "lat": 34.2849231,
+        "lon": -119.3002234,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3090,
+        "name": "Kids and Families Together",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-643-1446 ext. 12",
+        "address": "856 East Thompson Blvd., ",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93001,
+        "lat": 34.277907,
+        "lon": -119.287628,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3091,
+        "name": "Project Understanding",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-652-1326",
+        "address": "43 E. Vince Street",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93001,
+        "lat": 34.2942083,
+        "lon": -119.2961856,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3092,
+        "name": "Salvation Army Ventura",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-648-5032",
+        "address": "155 S. Oak St.,",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93001,
+        "lat": 34.2788355,
+        "lon": -119.294983,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3093,
+        "name": "South Coast Fellowship Pantry",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-658-7223",
+        "address": "1595 Walter St.",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93003,
+        "lat": 34.2582676,
+        "lon": -119.2397586,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3094,
+        "name": "Temple Beth Torah",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-647-4181",
+        "address": "7620 Foothill Road",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93004,
+        "lat": 34.2875885,
+        "lon": -119.1940313,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3095,
+        "name": "Ventura Calvary Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-302-0726",
+        "address": "358 San Clemente, ",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93001,
+        "lat": 34.273001,
+        "lon": -119.269211,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3096,
+        "name": "Salvation Army Simi Valley Care and Share",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-527-1070",
+        "address": "1407 Los Angeles Avenue Unit #P",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93065,
+        "lat": 34.287906,
+        "lon": -118.826708,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3097,
+        "name": "Simi Second Missionary Baptist",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-522-5241",
+        "address": "1063 Pacific Ave",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93065,
+        "lat": 34.269982,
+        "lon": -118.779228,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3098,
+        "name": "St. Peter Claver",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-526-6499",
+        "address": "5649 Cochran St.",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93063,
+        "lat": 34.279052,
+        "lon": -118.681665,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]    },
+    {
+        "users": [],
+        "id": 3099,
+        "name": "Simi Valley Community Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-526-8075",
+        "address": "2000 Royal Ave",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93065,
+        "lat": 34.261395,
+        "lon": -118.759021,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3100,
+        "name": "New Heart Foursquare Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-583-3433",
+        "address": "4200 Township Ave",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93063,
+        "lat": 34.293101,
+        "lon": -118.713924,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3101,
+        "name": "Victory Outreach Simi Valley",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-581-2599",
+        "address": "3701 Alamo St.",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": 93063,
+        "lat": 34.286757,
+        "lon": -118.724615,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3102,
+        "name": "Christian Church of Thousand Oaks",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-492-2474",
+        "address": "301 East Avenida De Las Flores",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "zip": 91360,
+        "lat": 34.208714,
+        "lon": -118.868951,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3103,
+        "name": "Many Mansions / Hacienda de Feliz",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-379-1216",
+        "address": "2084 Los Feliz Dr.",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "zip": 91362,
+        "lat": 34.176747,
+        "lon": -118.846385,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3104,
+        "name": "Many Mansions / Shadow Hills",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-379-1216",
+        "address": "227 E. Wilbur Road",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "zip": 91360,
+        "lat": 34.186087,
+        "lon": -118.871072,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3105,
+        "name": "Many Mansions  / Villa Garcia",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-379-1216",
+        "address": "1379 E. Thousand Oaks Blvd",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "zip": 91362,
+        "lat": 34.179154,
+        "lon": -118.855669,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3106,
+        "name": "New Life Mission Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-495-5500",
+        "address": "950 Warwick Ave",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "zip": 91360,
+        "lat": 34.189572,
+        "lon": -118.875337,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3107,
+        "name": "Associated Students of Ventura College",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-298-6156",
+        "address": "4667 Telegraph Road",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93003,
+        "lat": 34.275932,
+        "lon": -119.229264,
+        "categories": "",
+        "categoriesid": 101,
+        "categoriesname": "Food Pantry"
+    },
+    {
+        "users": [],
+        "id": 3108,
+        "name": "City Impact Cabrillo Village",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-983-3636 Ext 113",
+        "address": "1515 S Saticoy Avenue",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93004,
+        "lat": 34.274075,
+        "lon": -119.156233,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3109,
+        "name": "Ventura First Assembly of God",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-276-5906",
+        "address": "11168 Violeta St.",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93004,
+        "lat": 34.284304,
+        "lon": -119.148285,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3110,
+        "name": "Community Bible Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-339-0019",
+        "address": "5040 Telegraph Road",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93003,
+        "lat": 34.275889,
+        "lon": -119.226786,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3111,
+        "name": "Seventh Day Adventist Community Service Ventura",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-642-5387",
+        "address": "6300 Telephone Road",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93003,
+        "lat": 34.274894,
+        "lon": -119.228531,
+        "categories": [
+          {
+              "id": 102,
+              "name": "Food Pantry \/ Distribution"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3112,
+        "name": "The River Community",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "805-648-7955",
+        "address": "859 E Santa Clara Ave",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": 93003,
+        "lat": 34.279907,
+        "lon": -119.287663,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    },
+    {
+        "users": [],
+        "id": 3113,
+        "name": "Calvary Community Church",
+        "description": "",
+        "products": "",
+        "keywords": "",
+        "url": "",
+        "email": "",
+        "phone": "818-575-2271",
+        "address": "5495 Via Rocas",
+        "city": "Westlake Village",
+        "state": "CA",
+        "zip": 91362,
+        "lat": 34.15206,
+        "lon": -118.808201,
+        "categories": [
+          {
+              "id": 101,
+              "name": "Food Pantry"
+          }
+        ]
+    }
+]

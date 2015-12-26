@@ -1,40 +1,63 @@
-<div class="conversation">
-  Here are some places near <%= @current_location['city'] %>
-  where your <%= @survey_response.food_description %>
-  might find a new home.
-  Creating partnerships with local food distribution centers is a great way to help your community.
-</div>
 
 <div class="results">
   <section class="food-shelves<% if @survey_response.edible? %> eligible<% end %>">
     <h3>Food Shelves</h3>
     <% if @survey_response.edible? %>
+    <div class="conversation">
+      Here are some places near <%= @current_location['city'] %>
+      where your <%= @survey_response.food_description %>
+      might find a new home.
+      Creating partnerships with local food distribution centers is a great way to help your community.
+    </div>
+
         <% @foodshelf.each do |result| %>
           <%= render 'result', result: result, org_type: 'food' %>
         <% end %>
+
     <% else %>
         <p class="not-eligible">
             This food is not eligible to donate to a food shelf because
             <% if @survey_response.opened %>it was opened<% end %>
-            <% if @survey_response.old %>it is older than 3 days<% end %>
+            <% if @survey_response.old %>it is older than 30 days<% end %>
             <% if @survey_response.dangerous_temperature %>it was in "The Danger Zone" for temperature<% end %>
             <% if @survey_response.distressed %>it is visibly distressed<% end %>
-            . See the list of farms and composters below for ways to dispose of this food.
+            . See below for tips on how to prevent Food Waste at home
         </p>
-    <% end %>
-  </section>
-
-  <section class="farms">
-    <h3><i></i>Pig Farms</h3>
-    <% @pig.each do |result| %>
-      <%= render 'result', result: result, org_type: 'pig' %>
-    <% end %>
-  </section>
-
-  <section class="compost">
-    <h3><i></i>Composting Facilities</h3>
-    <% @compost.each do |result| %>
-      <%= render 'result', result: result, org_type: 'compost' %>
+        <h3><i>Food Waste </i></h3>
+        <p class="not-eligible">
+          Did you know that 40% of Food produced in the United States goes uneaten each year?
+          <br>Approximate amount of food American households waste results in $1350 to $2275 in Annual losses </br>
+          <br>Wasting food means wasting water, energy and resources that go into getting food from Farm to Fork </br>
+          <br>Here are some Quick Tips to Prevent Food Waste At Home:</br>
+        </p>
+          <ul class = "not-eligible" style="list-style-type:disc">
+            <lh><strong>Shop Smart</strong> </lh>
+            <li>Shop your fridge and cupboards first to avoid buying food you already have.</li>
+            <li>Create your shopping list based on how many meals you expect to eat at home before your next shopping trip. Include quantities on your shopping list to avoid overbuying.</li>
+            <li>Buy fresh ingredients in smaller quantities more often so you waste less while enjoying fresher ingredients.</li>
+            <li>Buy only what you realistically need and will use. Buying in bulk only saves money if you are able to use the food before it spoils.</li>
+            <li>Choose loose fruit and vegetables over pre-packaged produce to better control the quantity you need and to ensure fresher ingredients.</li>
+            <li>Keep a running list of meals that your household already enjoys.  That way, you can easily choose a meal to prepare.</li>
+         </ul>
+         <br></br>
+         <ul class = "not-eligible" style="list-style-type:disc">
+           <lh><strong>Keep Food Fresh</strong></lh>
+           <li>Keep your fridge organized and set at 40 degrees F or slightly cooler.  The coldest part of the fridge is the lower shelves.  Keep meats and other perishable foods there.</li>
+           <li>Set one crisper drawer to low humidity for fruits and other crisper drawers at high humidity for vegetables.</li>
+           <li>Find a deal on produce or meat at the grocery store? Use your freezer to keep food fresh up to six months. Remove the meat from the store packaging, trim fat, and double wrap in an airtight freezer bag. Fresh vegetables can be blanched before freezing to preserve taste and nutritional value.</li>
+           <li>Don't toss that extra milk! Milk can be frozen up to two months in an airtight container.  Don't forget to leave room for the liquid to expand!</li>
+        </ul>
+        <br></br>
+        <ul class="not-eligible" style="list-style-type:disc">
+          <lh><strong>Eat what you buy</strong></lh>
+          <li>About 2/3 of the food we don't eat is a result of overbuying and spoilage.  Keep an "Eat Now" box in your fridge for leftovers and foods that need to be consumed soon.</li>
+          <li>Plan an "eat the leftovers" night each week.</li>
+          <li>Casseroles, frittatas, soups, and smoothies are great ways to use leftovers and odds and ends.</li>
+          <li>Share food you won't get around to eating with friends neighbors, or coworkers. </li>
+          <li>What to reinvent leftovers? Check our the wealth of blogs and websites online that are full of recipes and tips. </li>
+       </ul>
+       <br></br>
+      <p><i>Source:<a href="http://www.cityofventura.net/foodwaste">City of Ventura - Food Waste</a></i></p>
     <% end %>
   </section>
 </div>

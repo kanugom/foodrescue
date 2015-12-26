@@ -1,5 +1,8 @@
 <div class="conversation">
-    <p>Please answer a few questions so we can recommend resources for donating or composting your surplus food.</p>
+    <p>Are you looking to donate Food in and around Ventura County, CA?
+      <br>If so, let us help you. </br>
+      <br> Please answer a few questions so we can recommend resources for donating your surplus food. </br>
+    </p>
 </div>
 
 <% if notice && !notice.blank? %>
@@ -104,7 +107,7 @@ foodRescue.home = {
                 dataType: "text",
                 data: {
                     "lat": position.coords.latitude,
-                    "long": position.coords.longitude 
+                    "long": position.coords.longitude
                 }
             })
             .done(function(zipCode) {

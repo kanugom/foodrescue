@@ -2,7 +2,7 @@ class PagesController < ApplicationController
   before_filter :set_current_location
   before_filter :load_survey_response
 
-  BURLINGTON = Zips.find_from_zip("05401")
+  NEWBURYPARK = Zips.find_from_zip("91320")
 
   def home
   end
@@ -19,10 +19,10 @@ class PagesController < ApplicationController
     if params[:zip].present?
       found_zip = set_location_from_zip params[:zip], params[:lat], params[:long]
       if !found_zip
-        errors.push "We don't think that is a Vermont zip code. Please try again!"
+        errors.push "We don't think that is a California zip code. Please try again!"
       end
     else
-      errors.push "Please provide a zip code. We need to know where you are!"
+      errors.push "Please provide a zip code. We need to know where you are. Currently available for Ventura County Zip Codes only: !"
     end
 
     if not params[:food_description].present? or params[:food_description].empty?
@@ -33,7 +33,7 @@ class PagesController < ApplicationController
     end
 
     if errors.length != 0
-      # todo: preserve entered values of zip and description    
+      # todo: preserve entered values of zip and description
       redirect_to "/", :notice => errors.join(" ")
       return
     end
@@ -117,9 +117,9 @@ class PagesController < ApplicationController
     @survey_response.save!
 
     # Grabs the top three results within 20 miles, sorted by distance
-    @foodshelf = Org.from_file( "foodshelf" ).delete_if {|org| org.distance_from( @current_location ) > 20 }.sort_by {|org| org.distance_from( @current_location ) }.first( 3 )
-    @pig = Org.from_file( "pig" ).delete_if {|org| org.distance_from( @current_location ) > 20 }.sort_by {|org| org.distance_from( @current_location ) }.first( 3 )
-    @compost = Org.from_file( "compost" ).delete_if {|org| org.distance_from( @current_location ) > 20 }.sort_by {|org| org.distance_from( @current_location ) }.first( 3 )
+    @foodshelf = Org.from_file( "foodpantry" ).delete_if {|org| org.distance_from( @current_location ) > 20 }.sort_by {|org| org.distance_from( @current_location ) }.first( 3 )
+    #@pig = Org.from_file( "pig" ).delete_if {|org| org.distance_from( @current_location ) > 20 }.sort_by {|org| org.distance_from( @current_location ) }.first( 3 )
+    #@compost = Org.from_file( "compost" ).delete_if {|org| org.distance_from( @current_location ) > 20 }.sort_by {|org| org.distance_from( @current_location ) }.first( 3 )
   end
 
   private
