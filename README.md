@@ -1,4 +1,6 @@
-## Hello! This is a replication of the FoodRescue project for Ventura County, CA with some tweaks. Currently, this app serves as a one-stop-shop to locate the Food Shelves/Pantries in and around the county. As and when details on composting is available, the app will be updated. 
+## Hello! 
+
+This is a replication of the FoodRescue project for Ventura County, CA with some tweaks. Currently, this app serves as a one-stop-shop to locate the Food Shelves/Pantries in and around the county. As and when details on composting is available, the app will be updated. 
 
 
 Live at https://find-a-food-shelf.herokuapp.com/
