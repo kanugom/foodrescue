@@ -7,12 +7,12 @@
   <div class="icon" style="float:left">
     <img src="prototype/images/icon-<%= org_type %>.png" />
   </div>
-
   <div class="name">
     <%= result['name'] %>
   </div>
 
   <div class="address">
+
     <a href="http://maps.google.com?q=<%= result['address']%>" target="_blank"><%= result['address'] %></a>, <%= result['city'] %>, <%= result['state'] %>
     <% if result['phone'].present? %>
         <br/>
